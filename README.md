@@ -1,0 +1,2 @@
+# crudLaravel
+ex to crudLaravel
